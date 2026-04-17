@@ -1,0 +1,10 @@
+{
+  "name": "wilson",
+  "description": "Rubber-duck debugging companion inspired by Wilson from Cast Away. Sits with you in silence while you think.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Matt Butler"
+  },
+  "homepage": "https://github.com/mbutlerw/wilson-plugin",
+  "license": "MIT"
+}
